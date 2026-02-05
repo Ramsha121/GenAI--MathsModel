@@ -44,7 +44,7 @@ st.markdown(
 )
 
 st.title("✨ GenAI Mathematical Assistant")
-st.caption("⚡ Ultra-fast symbolic + numeric solver across all math domains")
+st.caption("⚡ Ultra‑fast symbolic + numeric solver across all math domains")
 
 # -----------------------------
 # Sidebar Menu
