@@ -1,2 +1,0 @@
-pip install streamlit sympy numpy scipy
-streamlit run app.py
